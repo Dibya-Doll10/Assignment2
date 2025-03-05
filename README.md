@@ -1,6 +1,8 @@
 # Assignment2
+Please check my uploaded files
 given Task1 is:
-checking whether a number is even or odd .Please check my uploaded file . 
+checking whether a number is even or odd .
+
 The output of my code :
 Enter a positive integer: 5
 it is an odd number
